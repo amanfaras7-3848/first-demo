@@ -1,3 +1,3 @@
 # first-demo
 learning face repository <br>
-author - aman faras
+name - aman faras

@@ -1,3 +1,3 @@
 # first-demo
 learning face repository <br>
-name - aman faras (JCJ)
+name - aman faras
